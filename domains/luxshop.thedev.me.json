@@ -1,0 +1,14 @@
+{
+  "subdomain": "luxshop",
+  "domain": "thedev.me",
+  "email_or_discord": "john5james6653",
+  "github_username": "john5james6653-creator",
+  "description": "Personal project subdomain delegated to my own nameservers",
+  "records": {
+    "NS": [
+      "luxshop-ns1.thedev.me",
+      "luxshop-ns2.thedev.me"
+    ]
+  },
+  "proxied": false
+}
